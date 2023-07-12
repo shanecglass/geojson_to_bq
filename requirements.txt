@@ -1,0 +1,4 @@
+functions_framework
+google.cloud.bigquery
+google.cloud.storage
+flask
